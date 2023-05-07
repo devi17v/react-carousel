@@ -1,0 +1,18 @@
+img {
+  width: 580px;
+  height: 400px;
+  margin: 0 5px;
+  object-fit: cover;
+}
+.body-wrapper {
+  display: flex;
+  width: 700px;
+  margin: 60px auto;
+}
+.button-wrapper {
+  display: flex;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
